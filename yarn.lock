@@ -4682,6 +4682,11 @@ pify@^2.3.0:
   resolved "https://registry.yarnpkg.com/pify/-/pify-2.3.0.tgz#ed141a6ac043a849ea588498e7dca8b15330e90c"
   integrity sha512-udgsAY+fTnvv7kI7aaxbqwWNb0AHiB0qBO89PZKPkoTmGOgdbrHDKD+0B2X4uTfJ/FT1R09r9gTsjUjNJotuog==
 
+pinia-class-component@^0.9.4:
+  version "0.9.4"
+  resolved "https://registry.yarnpkg.com/pinia-class-component/-/pinia-class-component-0.9.4.tgz#2cb901666bcdbca7995fb9738b464dc3cf800004"
+  integrity sha512-5FXPqSdlLNhbfToSYeyLsM0hXtgdmYyHuotgutrkYqTRF6CO1aBPMTQfLnEMsJajqK7kajhBlBYn1xaXgsg1YA==
+
 pinia-plugin-persistedstate@>=3.2.0:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/pinia-plugin-persistedstate/-/pinia-plugin-persistedstate-3.2.1.tgz#66780602aecd6c7b152dd7e3ddc249a1f7a13fe5"
